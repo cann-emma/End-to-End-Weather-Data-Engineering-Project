@@ -1,0 +1,3 @@
+city,description,temperature_fahrenheit,feels_like_fahrenheit,minimun_temp_fahrenheit,maximum_temp_fahrenheit,pressure,humidity,wind_speed,time_of_record,sunrise_local_time,sunset_local_time,census_2020,census_est_2024,population_change
+Boston,overcast clouds,55.958,55.202,55.958,55.958,1016,84,1.24,2026-04-18 21:37:30,2026-04-18 05:58:22,2026-04-18 19:28:21,675647,673458,-2189
+Boston,overcast clouds,55.814,55.04,55.814,55.814,1016,84,1.24,2026-04-18 21:47:59,2026-04-18 05:58:22,2026-04-18 19:28:21,675647,673458,-2189
